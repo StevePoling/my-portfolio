@@ -1,2 +1,2 @@
-# my-portfolio
-Running a tutorial
+# Steve Poling's Portfolio
+Running a tutorial of AWS with ReactJS
