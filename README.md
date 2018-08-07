@@ -8,3 +8,5 @@ Running a tutorial of AWS with ReactJS
 - ssh
 - HTML and CSS
 - fonts from Google and Font Awesome
+
+And seeing if it works from Windows, too
